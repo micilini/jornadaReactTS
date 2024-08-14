@@ -1,3 +1,0 @@
-Insira a estrutura dos componentes (arquivos .TSX) que a sua aplicação fará o uso.
-
-Obs: Não se esqueça de apagar este arquivo no final.

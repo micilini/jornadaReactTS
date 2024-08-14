@@ -1,5 +1,0 @@
-Aqui é o local onde estarão localizados todos os arquivos que representam páginas.
-
-Obs: De acordo com a arquitetura de software, é aqui que puxamos cada um dos componentes existente dentro da pasta components para montar nossas telas.
-
-Obs: Não se esqueça de apagar este arquivo no final.

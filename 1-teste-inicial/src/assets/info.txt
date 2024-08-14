@@ -1,3 +1,0 @@
-Insira aqui a estrutura de assets (img, audio, vídeo, ícones) que o seu projeto vai utilizar.
-
-Obs: Não se esqueça de apagar este arquivo no final.

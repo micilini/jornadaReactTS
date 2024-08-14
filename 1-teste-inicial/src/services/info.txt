@@ -1,3 +1,0 @@
-Insira aqui todos os services que a sua aplicação fará o uso.
-
-Obs: Não se esqueça de apagar este arquivo no final.

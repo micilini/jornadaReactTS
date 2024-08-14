@@ -1,3 +1,0 @@
-Insira aqui os contextos da sua aplicação que fazem o uso do Context API do React, ou qualquer outra biblioteca.
-
-Obs: Não se esqueça de apagar este arquivo no final.

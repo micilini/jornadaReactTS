@@ -1,3 +1,0 @@
-Este é o espaço destinado a armazenar todos os testes que você está fazendo no seu projeto.
-
-Obs: Não se esqueça de apagar este arquivo no final.
