@@ -1,0 +1,3 @@
+Esta pasta é destinada a armazenar arquivos de configuração do seu projeto.
+
+Obs: Não se esqueça de apagar este arquivo no final.
