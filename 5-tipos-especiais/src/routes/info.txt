@@ -1,0 +1,3 @@
+Insira aqui os arquivos de gestão de rotas e rotas privadas.
+
+Obs: Não se esqueça de apagar este arquivo no final.
